@@ -1,5 +1,4 @@
-![](giphy.gif)
-
+<img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/giphy.gif" />
 ### Greetings Everyone! 👋 Harshit Dawar here!
 
 <!--
