@@ -1,5 +1,6 @@
 <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/giphy.gif" />
-### Greetings Everyone! 👋 Harshit Dawar here!
+
+# Greetings Everyone! 👋 Harshit Dawar here!
 
 <!--
 **HarshitDawar55/HarshitDawar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
