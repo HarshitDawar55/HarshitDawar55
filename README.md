@@ -1,7 +1,7 @@
 ### Greetings Everyone! 👋 Harshit Dawar here!
 
 <!--
-**HarshitDawar55/HarshitDawar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HarshitDawar55/HarshitDawar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Portfolio](https://harshitdawar55.github.io)
 - 😄 Pronouns: Technologist/ Technical Trainer/ He
 - ⚡ Fun fact: I watch web series a lot!
--->
+
