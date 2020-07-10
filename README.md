@@ -1,3 +1,5 @@
+![](giphy.gif)
+
 ### Greetings Everyone! 👋 Harshit Dawar here!
 
 <!--
