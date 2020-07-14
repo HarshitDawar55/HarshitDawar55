@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 <a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightyellow>
+   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightredw>
 </a>
 
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
@@ -34,6 +34,10 @@ Here are some ideas to get you started: -->
 
 <a href="https://www.instagram.com/i_am_harshit_dawar">
   <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.facebook.com/IamHarshitDawar">
+  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 </p>
