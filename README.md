@@ -3,6 +3,29 @@
 <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Github-COver.jpg" />
 
 # Greetings Everyone! 👋 Harshit Dawar here!
+<p>
+  
+<a href="https://twitter.com/HarshitDawar55">
+  <img align="left" alt="Harshit Dawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/harshitdawar">
+  <img align="left" alt="HarshitDawar" width="22px" src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" />
+</a>
+
+<a href="https://medium.com/@harshitdawar">
+  <img align="left" alt="Harshit Dawar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+
+<a href="https://www.instagram.com/i_am_harshit_dawar">
+  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.facebook.com/IamHarshitDawar">
+  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+</p>
 
 <!--
 **HarshitDawar55/HarshitDawar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -38,26 +61,3 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: [Portfolio](https://harshitdawar55.github.io)
 - 😄 Pronouns: Technologist/ Technical Trainer/ He
 - ⚡ Fun fact: I watch web series a lot!
-<p>
-  
-<a href="https://twitter.com/HarshitDawar55">
-  <img align="left" alt="Harshit Dawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/harshitdawar">
-  <img align="left" alt="HarshitDawar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://medium.com/@harshitdawar">
-  <img align="left" alt="Harshit Dawar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
-
-<a href="https://www.instagram.com/i_am_harshit_dawar">
-  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.facebook.com/IamHarshitDawar">
-  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-</p>
