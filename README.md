@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Technologist/ Technical Trainer/ He
 - ⚡ Fun fact: I watch web series a lot!
 
-<p>
+<br><br>
   
 <a href="https://twitter.com/HarshitDawar55">
   <img align="left" alt="Harshit Dawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -65,7 +65,6 @@ Here are some ideas to get you started: -->
   <img align="left" alt="Harshit Dawar Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-</p>
 <br>
 
 ![Harshit Dawar github stats](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true)
