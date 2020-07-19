@@ -7,10 +7,14 @@
 
 Here are some ideas to get you started: -->
 <a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightredw>
+   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightred>
 </a>
 
-<img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" " />
+<a href=https://github.com/Its-Technology-World>
+   <img src=https://img.shields.io/badge/Technology%20World-Founder-important>
+</a>
+
+<img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
 - 🌱 I’m currently learning Hybrid-Multi-Cloud, Flutter, & Ansible!
