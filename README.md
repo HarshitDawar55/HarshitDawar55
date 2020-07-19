@@ -67,6 +67,9 @@ Here are some ideas to get you started: -->
 
 <br><br>
 
-## My GitHub Stats 🤩!
+<!-- ## My GitHub Stats 🤩!
 
-![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true) -->
+
+## My Belief!
+<img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Great_Saying.jpeg" />
