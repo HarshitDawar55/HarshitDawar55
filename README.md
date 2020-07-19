@@ -1,4 +1,6 @@
-<img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/giphy.gif" />
+<!-- <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/giphy.gif" /> -->
+
+<img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Github-COver.jpg" />
 
 # Greetings Everyone! 👋 Harshit Dawar here!
 
