@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
    <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightredw>
 </a>
 
+<img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/medium.JPG" width="350" />
+
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
 - 🌱 I’m currently learning Hybrid-Multi-Cloud, Flutter, & Ansible!
 <!-- - 👯 I’m looking to collaborate on ...
