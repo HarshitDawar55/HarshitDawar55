@@ -18,7 +18,9 @@ Here are some ideas to get you started: -->
    <img src=https://img.shields.io/badge/Microsoft%20Technology%20Associate-Python-ff69b4>
 </a>
 
-<img src=https://img.shields.io/badge/Machine%20Learning%20Mentor-Tesseract%20Coding-red>
+<a href="">
+   <img src=https://img.shields.io/badge/Machine%20Learning%20Mentor-Tesseract%20Coding-red>
+</a>
 
 <img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
