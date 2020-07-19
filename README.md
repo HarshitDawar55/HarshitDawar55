@@ -14,6 +14,12 @@ Here are some ideas to get you started: -->
    <img src=https://img.shields.io/badge/Technology%20World-Founder-important>
 </a>
 
+<a href=https://www.youracclaim.com/badges/71af619a-8f3c-4d52-a1b8-d07386755039/linked_in_profile>
+   <img src=https://img.shields.io/badge/Microsoft%20Technology%20Associate-Python-ff69b4>
+</a>
+
+https://img.shields.io/badge/Machine%20Learning%20Mentor-Tesseract%20Coding-red
+
 <img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
