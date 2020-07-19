@@ -7,10 +7,26 @@
 
 Here are some ideas to get you started: -->
 <a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightredw>
+   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightred>
 </a>
 
-<img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/medium.JPG" width="350" />
+<a href=https://github.com/Its-Technology-World>
+   <img src=https://img.shields.io/badge/Technology%20World-Founder-important>
+</a>
+
+<a href=https://www.youracclaim.com/badges/71af619a-8f3c-4d52-a1b8-d07386755039/linked_in_profile>
+   <img src=https://img.shields.io/badge/Microsoft%20Technology%20Associate-Python-ff69b4>
+</a>
+
+<a href="">
+   <img src=https://img.shields.io/badge/Machine%20Learning%20Mentor-Tesseract%20Coding-red>
+</a>
+
+<a href="">
+   <img src="https://img.shields.io/badge/Technical%20Trainer-What%20After%20College-blueviolet">
+</a>
+
+<img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
 - 🌱 I’m currently learning Hybrid-Multi-Cloud, Flutter, & Ansible!
