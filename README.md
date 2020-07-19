@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started: -->
 <a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-collaborator-brightred>
+   <img src=https://img.shields.io/badge/NeoAlgo-Collaborator-brightgreen>
 </a>
 
 <a href=https://github.com/Its-Technology-World>
@@ -46,7 +46,7 @@ Here are some ideas to get you started: -->
 </a>
 
 <a href="https://www.linkedin.com/in/harshitdawar">
-  <img align="left" alt="HarshitDawar" width="50px" src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" />
+  <img align="left" alt="HarshitDawar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://medium.com/@harshitdawar">
