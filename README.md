@@ -69,4 +69,4 @@ Here are some ideas to get you started: -->
 
 ## My GitHub Stats 🤩!
 
-![Harshit Dawar github stats](https://github-readme-stats.vercel.app/api?username=HarshitDawar55&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true)
