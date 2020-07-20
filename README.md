@@ -28,6 +28,10 @@ Here are some ideas to get you started: -->
    <img src="https://img.shields.io/badge/Technical%20Trainer-What%20After%20College-blueviolet">
 </a>
 
+<a href="https://www.github.com/harshitdawar55">
+   <img src="https://img.shields.io/github/followers/harshitdawar55?style=social">
+  </a>
+
 <img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
 - 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
