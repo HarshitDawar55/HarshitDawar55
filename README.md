@@ -78,4 +78,6 @@ Here are some ideas to get you started: -->
 ## My Belief 🤩!
 <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Great_Saying.jpeg" height="350px"/>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="harshitdawar"><a class="LI-simple-link" href='https://in.linkedin.com/in/harshitdawar?trk=profile-badge'>Harshit Dawar</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="harshitdawar"><a class="LI-simple-link" href='https://in.linkedin.com/in/harshitdawar?trk=profile-badge'>Harshit Dawar</a></div> </script>
