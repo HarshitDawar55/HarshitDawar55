@@ -78,5 +78,3 @@ Here are some ideas to get you started: -->
 ## My Belief 🤩!
 <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Great_Saying.jpeg" height="350px"/>
 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
