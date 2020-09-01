@@ -20,6 +20,14 @@ Here are some ideas to get you started: -->
    <img src=https://img.shields.io/badge/Microsoft%20Technology%20Associate-Python-ff69b4>
 </a>
 
+<a href=https://www.youracclaim.com/badges/71af619a-8f3c-4d52-a1b8-d07386755039/linked_in_profile>
+   <img src=https://img.shields.io/badge/Machine%20Learning%20Mentor-DevScript-brightgreen>
+</a>
+
+<a href=https://www.youracclaim.com/badges/71af619a-8f3c-4d52-a1b8-d07386755039/linked_in_profile>
+   <img src=https://img.shields.io/badge/Content%20Creator-Medium-orange>
+</a>
+
 <a href="">
    <img src=https://img.shields.io/badge/Machine%20Learning%20Mentor-Tesseract%20Coding-red>
 </a>
