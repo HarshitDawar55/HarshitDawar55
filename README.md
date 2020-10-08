@@ -46,7 +46,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Hybrid-Multi-Cloud, Flutter, & Ansible!
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Data Science, DevOps & Cloud!
+- 💬 Ask me about Data Science, DevOps, Big Data & Cloud, I will try to help in the best way I can(for everything)!
 - 📫 How to reach me: [Portfolio](https://harshitdawar55.github.io)
 - 😄 Pronouns: Technologist/ Technical Trainer/ He
 - ⚡ Fun fact: I watch web series a lot!
@@ -54,11 +54,11 @@ Here are some ideas to get you started: -->
 <br>
   
 <a href="https://twitter.com/HarshitDawar55">
-  <img align="left" alt="Harshit Dawar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Harshit Dawar | Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/harshitdawar">
-  <img align="left" alt="HarshitDawar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="HarshitDawar" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 
 <a href="https://medium.com/@harshitdawar">
@@ -66,7 +66,7 @@ Here are some ideas to get you started: -->
 </a>
 
 <a href="https://www.instagram.com/i_am_harshit_dawar">
-  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Harshit Dawar Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/IamHarshitDawar">
@@ -79,9 +79,9 @@ Here are some ideas to get you started: -->
 
 <br><br>
 
-<!-- ## My GitHub Stats 🤩!
+## My GitHub Stats 🤩!
 
-![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true) -->
+![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true)
 
 ## My Belief 🤩!
 <img src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/Great_Saying.jpeg" height="350px"/>
