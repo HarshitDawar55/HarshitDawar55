@@ -84,9 +84,8 @@ Here are some ideas to get you started: -->
 <br><br>
 
 ## My Latest Blogs 🤩!
-[RSA Algorithm for Encryption & Decryption!](https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae)
-<br>
-[Difference between Standardization & Normalization](https://medium.com/swlh/difference-between-standardization-normalization-99be0320c1b1)
+* [RSA Algorithm for Encryption & Decryption!](https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae)
+* [Difference between Standardization & Normalization](https://medium.com/swlh/difference-between-standardization-normalization-99be0320c1b1)
 
 ## My GitHub Stats 🤩!
 
