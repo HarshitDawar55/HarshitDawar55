@@ -36,6 +36,10 @@ Here are some ideas to get you started: -->
    <img src="https://img.shields.io/badge/Technical%20Trainer-What%20After%20College-blueviolet">
 </a>
 
+<a href="">
+   <img src="https://img.shields.io/badge/ML%20Project%20Mentor-DSC--DAIICT--SLOP-brightgreen">
+</a>
+
 <!--<a href="https://www.github.com/harshitdawar55">
    <img src="https://img.shields.io/github/followers/harshitdawar55?style=social">
   </a>-->
