@@ -84,9 +84,7 @@ Here are some ideas to get you started: -->
 <br><br>
 
 ## My Latest Blogs 🤩!
-<a href = "https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae">
-   <img src = "https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae" />
-</a>
+[RSA Algorithm for Encryption & Decryption!](https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae)
 
 ## My GitHub Stats 🤩!
 
