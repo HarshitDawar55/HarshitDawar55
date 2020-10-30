@@ -83,6 +83,9 @@ Here are some ideas to get you started: -->
 
 <br><br>
 
+## My Latest Blogs 🤩!
+<a href = "https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae"></a>
+
 ## My GitHub Stats 🤩!
 
 ![](https://github-readme-stats.vercel.app/api?username=harshitdawar55&show_icons=true)
