@@ -85,7 +85,11 @@ Here are some ideas to get you started: -->
 
 ## My Latest Blogs 🤩!
 * [RSA Algorithm for Encryption & Decryption!](https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae)
-* [Difference between Standardization & Normalization](https://medium.com/swlh/difference-between-standardization-normalization-99be0320c1b1)
+* [Difference between Standardization & Normalization!](https://medium.com/swlh/difference-between-standardization-normalization-99be0320c1b1)
+* [Bias & Variance in Machine Learning!](https://medium.com/swlh/bias-variance-in-machine-learning-33793a7a3010)
+* [Hadoop Multi-Node Cluster Setup!](https://medium.com/swlh/hadoop-multi-node-cluster-setup-c1937952295b)
+* [Binary CrossEntropy in Deep Learning!](https://medium.com/analytics-vidhya/binary-crossentropy-in-its-core-35bcecf27a8a)
+* [Provisioning EC2 Instances with external EBS Volume attached using AWS CLI!](https://medium.com/analytics-vidhya/provisioning-ec2-instances-with-external-ebs-volume-attached-using-aws-cli-ac85a9ce67ed)
 
 ## My GitHub Stats 🤩!
 
