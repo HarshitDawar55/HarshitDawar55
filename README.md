@@ -90,6 +90,7 @@ Here are some ideas to get you started: -->
 * [Hadoop Multi-Node Cluster Setup!](https://medium.com/swlh/hadoop-multi-node-cluster-setup-c1937952295b)
 * [Binary CrossEntropy in Deep Learning!](https://medium.com/analytics-vidhya/binary-crossentropy-in-its-core-35bcecf27a8a)
 * [Provisioning EC2 Instances with external EBS Volume attached using AWS CLI!](https://medium.com/analytics-vidhya/provisioning-ec2-instances-with-external-ebs-volume-attached-using-aws-cli-ac85a9ce67ed)
+* [Data Augmentation & myths about it!](https://harshitdawar.medium.com/data-augmentation-myths-about-it-f06eebac44b5)
 
 ## My GitHub Stats 🤩!
 
