@@ -84,6 +84,7 @@ Here are some ideas to get you started: -->
 <br><br>
 
 ## My Latest Blogs 🤩!
+* [Deploying high availability CDN architecture on AWS using AWS CLI!](https://harshitdawar.medium.com/deploying-high-availability-cdn-architecture-on-aws-using-aws-cli-452d88b04836)
 * [RSA Algorithm for Encryption & Decryption!](https://harshitdawar.medium.com/all-about-rsa-encryption-technique-in-cryptography-fc896052fdae)
 * [Difference between Standardization & Normalization!](https://medium.com/swlh/difference-between-standardization-normalization-99be0320c1b1)
 * [Bias & Variance in Machine Learning!](https://medium.com/swlh/bias-variance-in-machine-learning-33793a7a3010)
