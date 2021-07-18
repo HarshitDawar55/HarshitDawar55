@@ -46,8 +46,8 @@ Here are some ideas to get you started: -->
 
 <img align='right' src="https://github.com/HarshitDawar55/HarshitDawar55/blob/master/Images/1V2A5729.JPG" width="350" />
 
-- 🔭 I’m currently working on Automation with Terraform, & in future some cool Deep Learning concepts I will be posting on my Medium profile.
-- 🌱 I’m currently learning Hybrid-Multi-Cloud, Flutter, & Ansible!
+- 🔭 I’m currently working on multiple technologies like Big Data, DevOps, Data Science, ML, DL, CV, NLP, Cloud Computing, & their Integration.
+- 🌱 I’m currently learning Hybrid-Multi-Cloud, and new things in CV & NLP.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Data Science, DevOps, Big Data & Cloud, I will try to help in the best way I can(for everything)!
