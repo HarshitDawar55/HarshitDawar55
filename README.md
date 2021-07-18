@@ -8,6 +8,10 @@
 **HarshitDawar55/HarshitDawar55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: -->
+<a href="">
+   <img src=https://img.shields.io/badge/Technical%20Trainer-%40Xebia-orange>
+</a>
+
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Collaborator-brightgreen>
 </a>
